@@ -1,5 +1,5 @@
-# pewpew-analog-clock
-Analog clock display using the [PewPew](https://pewpew.readthedocs.io/) library.
+# PewPew Analog Clock display
+Analog clock display using the [PewPew library](https://pewpew.readthedocs.io/).
 
 Yellow hand represents seconds (5s interval)
 Orange hand represents minutes (5m interval)
